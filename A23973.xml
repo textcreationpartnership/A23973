@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks upon A letter from a gentleman in the country to his friend in London and upon a relation of some Norfolk clergy of a conference between them and some Quakers ... / by an eye and ear witness of the whole, J.A.</title>
+            <author>J. A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23973</idno>
+            <idno type="STC">Wing A14</idno>
+            <idno type="STC">ESTC R36631</idno>
+            <idno type="EEBO-CITATION">15746772</idno>
+            <idno type="OCLC">ocm 15746772</idno>
+            <idno type="VID">104610</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23973)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104610)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1164:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks upon A letter from a gentleman in the country to his friend in London and upon a relation of some Norfolk clergy of a conference between them and some Quakers ... / by an eye and ear witness of the whole, J.A.</title>
+                  <author>J. A.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by the booksellers of London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>W. D. --  A letter from a gentleman in the country to his friend at London, concerning  a conference between some clergy-men ... and some Quakers.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104610:1" rendition="simple:additions"/>
+            <p>REMARKS UPON A LETTER FROM A Gentleman in the Country TO HIS Friend in <hi>LONDON;</hi> AND UPON A Relation of ſome <hi>Norfolk Clergy,</hi> of a Conference between them and ſome <hi>Quakers,</hi> at <hi>Weſt-Dereham Church</hi> in <hi>Norfolk, December</hi> the 8th 1698.</p>
+            <p>And a Certificate relating to the Challenge: With <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> farther Account of the ſaid Conference.</p>
+            <p>
+               <hi>By an Eye and Ear Witneſs of the whole,</hi> J. A</p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by the <hi>Bookſellers</hi> of <hi>London</hi> and <hi>Weſtminſter,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:104610:2"/>
+            <head>REMARKS upon a Letter, <hi>&amp;c.</hi>
+            </head>
+            <p>HAving ſeen <hi>A Letter from a Gentleman in the Country to his Friend at</hi> London, <hi>con<g ref="char:EOLhyphen"/>cerning a Conference between ſome Clergy-Men at</hi> Weſt-Dereham <hi>in</hi> Norfolk, <hi>and ſome Quakers;</hi> Subſcribed <hi>W. D.</hi>
+            </p>
+            <p>And ſince another Relation of the ſame Conference, together with thoſe Letters which paſſed between the <hi>Quakers</hi> and <hi>Clergy,</hi> in order thereunto; to which is added a Certificate concerning the Challenge.</p>
+            <p>On which, I being an Eye and Ear Witneſs all the time, am willing to make ſome Remarks.</p>
+            <p>Although I am not a Perſon that delights in Controverſie, or takes Pleaſure in ſuch Debates, yet was willing at this time to be preſent, and to obſerve how, and in what temper, this Conference would be managed, which was Commendable on both ſides at firſt, in making their Supplications unto God; but it continued not long in ſo Edi<g ref="char:EOLhyphen"/>fying a Method; for when the <hi>Clergy</hi> had read ſome Letters that had paſſed between them and the <hi>Quakers,</hi> the <hi>Quakers</hi> deſired, and had it granted, that their Anſwers might be read in Courſe, but the <hi>Clergy</hi> would have proceeded to read their Proofs, which the <hi>Quakers</hi> objected againſt, becauſe they had not Copies of their Charge, ac<g ref="char:EOLhyphen"/>cording to their Requeſt; neither were the Preliminaries agreed upon. And I am perſuaded, had the <hi>Clergy</hi> granted that, and behaved themſelves Grave and Solid, and proceeded in a <hi>Chriſtian Spirit</hi> of Meekneſs and Love, they would have been more ac<g ref="char:EOLhyphen"/>ceptable to the People, and ſatisfactory to the Auditory: But on the contrary, the <hi>Quakers</hi> very Soberly Appealed to the People, both againſt their Proceedings, Levity and Noiſe.</p>
+            <p>And by that, and making Confeſſion of their Faith, in good Language and Scripture Terms, I muſt ſay, were moſt taking with the ſober People preſent. And now I ſhall proceed to my Remarks; and firſt, on the Letter: I muſt acknowledge it's a fair Ac<g ref="char:EOLhyphen"/>count, and Impartially done in what it toucheth of; and the Advice taken out of <hi>J. Fox,</hi> I muſt needs ſay is well Adapted, and I could be heartily glad it were well Pra<g ref="char:EOLhyphen"/>ctiſed: And the only way thereto, is, for all to dwell in that Love that Envieth not, which is the <hi>Badge</hi> by which all Men may know whoſe Diſciples they are: And not to hold or contend for any Doctrine that is contrary to the <hi>Word of God,</hi> but rather cloſe with the <hi>Philoſophers,</hi> viz. <hi>Amicus Socrates, Amicus Plato; Sed Magis Amica Veritas;</hi> and again, <hi>Non eſt Jurandum in verba Magiſtri;</hi> that is to ſay. Truth is to be our Boſom Friend, and we are to flee all others, to follow that which will teach us not to be Angry without a Cauſe.</p>
+            <p>And as to the Relation given by the <hi>Clergy,</hi> I muſt confeſs, it's neither Candid, nor Conſiſtant in ſeveral things, <hi>viz.</hi> p. 6. <q>One of us got to a Corner of the Seat, from whence he might be heard by ſome of the People, and laid open ſome of the <hi>Blaſphe<g ref="char:EOLhyphen"/>mies</hi> we had to Charge them with, out of their own Books, to the great Satisfaction of the Auditory, which cried out <hi>Blaſphemy, Blaſphemy!</hi> on which one of the <hi>Quakers</hi>
+                  <pb n="3" facs="tcp:104610:2"/>
+very Pertly asked us. That if they looked upon us to be ſuch <hi>Blaſphemers,</hi> what is <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> reaſon we have let them alone ſo long, that they had never heard of ſuch a Char<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from us before (even thro' the ſpace of Forty Years) and how comes it to paſs <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have been ſo Careleſs of our <hi>Flocks?</hi> We ingeniouſly told them, We never had <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> right an Underſtanding of their Principles as of late.</q>
+            </p>
+            <p>
+               <hi>Rem.</hi> Here's no Quotation, no Reference to any Book or Books, out of which the things were proved, it was but to ſome, and at a Corner; yet to the great Satisfaction <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Audition, who cried out <hi>Blaſphemy, Blaſphemy!</hi> I doubt the <hi>Quakers</hi> will Ridicule th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Corner-Story, that was ſo <hi>little</hi> heard, and gave ſuch <hi>great</hi> Satisfaction, and cauſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Cry of <hi>Blaſphemy, Blaſphemy!</hi> Which few heard but thoſe in the Corner; for I am ſure that all the time I was not far from the Scaffold, and I heard no ſuch repeate<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Exclamations: Theſe things are more like to be to the Diſadvantage of the <hi>Clergy</hi> than their Reputation; and thoſe People that are apt to improve every Advantage againſt them, and are ready by the Fruits and Practice of ſome <hi>Clergy-Men</hi> to compare them to thoſe falſe Prophets, which preached for Hire, and divined for Money, and that ſought their Gain from their Quarter, who by their Lies and Lightneſs cauſed the People to Err<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>Beſides theſe People, from the <hi>Clergy</hi>'s not quoting their Books, nor Reciting the words which they ſay are <hi>Blaſphemy</hi> in this Printed Account, will be ready to ſuggeſt, That the <hi>Clergy</hi> were <hi>Conſcious</hi> to themſelves that the Words would not <hi>amount to Blaſphemy,</hi> becauſe they only <hi>Impoſe</hi> them upon their own Authority, as if <hi>Ipſe dixit,</hi> as one there told them, were ſufficient: And it's much but they'll ſuggeſt, that theſe Learned Rectors, that confeſs there are ſeveral Thouſands of the <hi>Quakers</hi> in <hi>Norfolk</hi> and <hi>Suffolk</hi> have been very Careleſs and Negligent in the diſcharge of their Office, who alledge they have the Care and Cure of Souls, and are well paid for it, and ac<g ref="char:EOLhyphen"/>count the <hi>Quakers</hi> Blaſphemers, and their <hi>Principles</hi> Dangerous, and yet have not all this while proved the <hi>firſt</hi> as publickly in Print, as they are expoſed in their Books, and underſtood ſo <hi>little</hi> of the latter, till of late, as they ingenuoſly Confeſs: Is here not room to ſay, <hi>Nec mirum ejuſdem fere ſunt farinae Irriſor &amp; Ignarus.</hi>
+            </p>
+            <p>And for old Parſon <hi>Meriton</hi> to be included amongſt theſe is more ſtrange; for the <hi>Quakers</hi> will be ready to conclude, what he did in Appearing againſt, and Oppoſing the <hi>Quakers</hi> ſome Years ſince, and their Principles, was before he had ſo right an Un<g ref="char:EOLhyphen"/>derſtanding of their Principles: Beſides there was one thing I took particular notice of, which was this, When the <hi>Quakers</hi> complained of the Severeneſs of their Charge, and the Univerſality of it, being againſt the whole Body of the People called <hi>Quakers,</hi> Parſon <hi>Archer</hi> of <hi>Millner</hi> told them openly, they did not Charge the <hi>Quakers</hi> of this Ge<g ref="char:EOLhyphen"/>neration, for they were <hi>Orthodox,</hi> and would have them only deny their <hi>Ancient Friends</hi> Books: And indeed as he appeared moſt Charitable, ſo he behaved himſelf more Grave than the others: But the <hi>Quakers</hi> returned upon that, as in the <hi>Letter,</hi> to know whether they would deny their Ancient Friends Writings, as <hi>William Thorpe,</hi> &amp;c.</p>
+            <p>And again I obſerve in the <hi>Clergy</hi>'s Account, p. 2, they have Recited a paſſage out of one or the <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Celebrated Authors, which ſeems to be a very bold Propoſal, and ſhews they are ſtrong in their Perſwaſion, although they have been expoſed to great Sufferings; the words cited are, <q>Let any Wiſe Men Propound for full Satiſ<g ref="char:EOLhyphen"/>faction 
+<pb n="4" facs="tcp:104610:3"/>
+of all ſorts of People, that We, with the Conſent of the Chief in Authority, that have Power in this Nation (note, This ſhews they had ſome reſpect for Magiſtracy) who may preſerve Peace and Safety among People—may freely—give as many of the Wiſe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and Ableſt of the Prieſts, <hi>&amp;c.</hi> a Meeting for Diſpute at any place in <hi>England,</hi> at what Place and Time, and for what Continuance <hi>they</hi> ſhall Aſcribe and Conſent unto.</q>
+            </p>
+            <p>Now I Remark from this, it's to my Admiration, that ever the <hi>Clergy</hi> ſhould urge this as they did at <hi>Weſt-Dereham,</hi> and have now again to <hi>Settle the Pre<g ref="char:EOLhyphen"/>liminaries</hi> of that Conference, and now to ſay the <hi>Quakers</hi> would not ſtand to <hi>Edw. Burroughs</hi>'s Terms, which were never urged as Terms, as I heard, till then: Beſides the <hi>Quakers</hi> did then and there urge, it was morally Impoſſible, that the Propoſal of <hi>Edward Burroughs,</hi> made <hi>above Twenty Five Years paſt,</hi> ſhould ſettle the Preliminaries of a Conference that was begun to be treated on but a <hi>few Months ſince;</hi> and now they have printed it, it's much if thoſe People (which I perceive are pretty apt with their Repartees) do not tell them, that thoſe Terms of <hi>Edward Burroughs</hi> were not anſwered, for by that, <hi>Wiſe Men</hi> were to propound, and to them <hi>in Authority;</hi> but they neither look upon thoſe <hi>Rectors</hi> (or <hi>Lawrence Park</hi>) ei<g ref="char:EOLhyphen"/>ther <hi>Wiſe Men,</hi> or <hi>in Authority.</hi> There is another paſſage, which was, I perceive, omitted in the <hi>Letter,</hi> which the principal Managers, as they ſtile themſelves, <hi>viz. Edward Beckenham,</hi> D. D. Rector of <hi>Gayton Thorpe, Henry Meriton,</hi> Rector of <hi>Ox<g ref="char:EOLhyphen"/>borough, Lancaſter Topcliff,</hi> Rector of <hi>Hockwold,</hi> have hinted in that <hi>Remarkable</hi> and moſt <hi>Notable</hi> Relation of the Conference, wherein they boldly declare, they would not leave the matter thus, but ſeek ſome more ſeaſonable opportunity to make good their Charge (not Challenge, for they'll not allow that they had that Courage againſt the <hi>Quakers)</hi> but intend when Weather is good; and that the <hi>Quakers</hi> will Anſwer fairly, to <hi>permit</hi> (oh! what power they aſſume) any of all the <hi>Quakers</hi> to appear, but if they ſhall fall a Clamouring, they will civily lead them out of Door. Is it not ſtrange that ſuch a material paſſage ſhould be omitted? Which ſhews the Reſolution of the <hi>Clergy,</hi> and their Care to ſeek a more favourable opportunity to make good their Charge; which cauſes me to Remember, what ſome at the Conference called them: For by this they grant their Work's to do, their Proofs are to make, and the <hi>Quakers</hi> are only called, not proved Blaſphemers, in any of the Points brought againſt them; what Reaſon, then I pray, had the People to cry out Blaſphemy, Blaſphemy! unleſs it was to fulfill this Proverb, <hi>Qualis ſit Caulae Rex, talis eſt Vulgi Grex?</hi>
+            </p>
+            <p>But let me be Charitable to the Auditory, quoted for their Enuntiation of Blaſphe<g ref="char:EOLhyphen"/>my, Blaſphemy! for ſurely either they were Ignorant if they ſo did; or thoſe learn<g ref="char:EOLhyphen"/>ed <hi>Clergy</hi> miſrepreſent them, for it is granted by them that the Charges are yet to prove. So that for any thing they did, that Six Hours they were at the Conference, the <hi>Quakers</hi> remain what they were, however theſe <hi>Rectors</hi> if they did little, are now reſolved to ſpeak big, and that is ſooner ſaid than prov'd; for now they declare under their Hands, which is witneſſed unto by many others, or the Subſtance of it (and that by one Presbyterian, <hi>John Williamſon,</hi> Miniſter of the Goſpel; as theſe <hi>Clergy-men</hi> print him) however, the <hi>Clergy</hi> will <hi>permit</hi> the <hi>Quakers</hi> upon terms, <hi>viz.</hi> if the <hi>Quakers</hi> anſwer fairly, <hi>We</hi> will <hi>permit</hi> any of them all to appear; what wonderful favour
+<pb n="5" facs="tcp:104610:3"/>
+is this from thoſe that ſpake ſo big? Yet now I think of it, how would they hinder their appearance? Unleſs they were reſolved to meet privately. And now they Charge, Sentence and Condemn them, unſummon'd and unheard, and will not this be as well as to Summon them, as when they come to put them out—but let's not forget the civility they promiſe, which is, if they fall a Cla<g ref="char:EOLhyphen"/>mouring, they will very civily lead them out of Doors. And no doubt they'll under<g ref="char:EOLhyphen"/>take to be Judges of that, conſidering there's one <hi>D. D.</hi> beſides two other <hi>Rectors,</hi> who poſſibly in the <hi>Quakers</hi> abſence, may be able to do what they could not when preſent. But conſider further, that this grant of Civility is promiſed the <hi>Quakers</hi> by the <hi>Clergy,</hi> notwithſtanding, they have done ſo much to hinder their Good deſign of proving their Charge of <hi>Blaſphemy</hi> to the People, ſo they grant again the Charge is not yet proved; yet ſay thoſe Reverend <hi>Rectors,</hi> the People were generally ſatisfied, if ſo, ſurely theſe <hi>People,</hi> or the <hi>Clergy,</hi> or both, were very weak, to conclude Men Guilty before Tryal or Proof; but peradventure theſe Maſters of Words, and Men of Learning, may mean by their couching the Matter thus, that the People were ſatisfied, they neither did, nor could prove what they charged the <hi>Quakers</hi> with: For if it was as they ſuggeſt, that the <hi>Quakers</hi> would not let them proceed to Try, Sentence and Condemn, before they were in a Capacity to make their Defence, by peruſing the Quotations deſigned or urged for Proofs, with other places in the ſame Books; and that every Author may have that common Juſtice, due to all Men, to explain, or have his meaning explained by other Sentences in the ſame Book.</p>
+            <p>Now I ſay, if theſe Divines and Men of Learning, were then prevented from prov<g ref="char:EOLhyphen"/>ing the Charge out of the <hi>Quakers</hi> own Writings; why did they not now Print and Publiſh them to the World, and make them ſo publick as the <hi>Quakers</hi> Books are, for General Information and Good of their Flocks? For I obſerve in p. 8. they ſay, <hi>viz.</hi> 
+               <q>But notwithſtanding they, <hi>i. e.</hi> [the <hi>Quakers</hi>] have done ſo much to hinder our good Deſign of Proving our Charge to the People; we hope we have ſtopp'd the <hi>Gangreen</hi> that it ſpreads no farther; in our Corner the People were generally ſatisfi<g ref="char:EOLhyphen"/>ed, and do believe them now to be <hi>Blaſphemers;</hi> but why, I pray, do they <hi>ſo Believe?</hi>
+               </q> And from whence comes this <hi>General Satisfaction?</hi> Was it becauſe no proof was made? As theſe <hi>Rectors <hi>grant;</hi>
+               </hi> and is this all they have to ground their hope upon, that the <hi>Gangreen</hi> is ſtopp'd? No, ſure there's ſomething further; what's that? Its this, becauſe they refuſe to come to Tryal, nor would ſuffer their Books to be read: And this is the Reaſon the Principal Managers of the <hi>Clergy</hi> have given under their Hands, this is the Ground of their <hi>hope,</hi> and of the Peoples <hi>General Satisfaction,</hi> and their <hi>belief,</hi> if theſe Men may be believed: But this is certain, the <hi>Quakers</hi> never refuſed to come to Tryal, Hundreds are Witneſſes they often proffered it, and in order to it, deſired a Liſt or Account of the Titles of the Books, the Pages, and Authors Names, out of which the <hi>Clergy</hi> pretended they would bring their proofs; and proffer, rather than go without it, to pay for the tranſcribing it; and once had directions to ſend to <hi>Oxborough</hi> for it, and expectation given by Doctor <hi>Beckenham</hi> that they ſhould have it; but the Rector <hi>Meriton</hi> denied it; and the <hi>Quakers</hi> alſo proffer'd over and over, that if
+<pb n="6" facs="tcp:104610:4"/>
+they might have ſuch a Copy or Account, they would willingly proceed to ſettle the Preliminaries, and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at in order to agree upon time and place, and if there were any thing they could not ſtand by, or make <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood by Scripture Proof, they'd diſown it; and urged to the <hi>Clergy,</hi> that if they were ſure their Proofs <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ould hold, they need not fear giving a Copy of their Charge, nor decline another Meeting; but one of the <hi>Clergy</hi> ſaid, <hi>Let it End here.</hi>
+            </p>
+            <p>And is it not reaſonable therefore to conclude, that theſe <hi>Clergy-men</hi> are Conſcious to themſelves of the Invalidity of their pretended Proofs, or ſhortneſs of making good that Charge, which they would nei<g ref="char:EOLhyphen"/>ther then or now produce them, that the World might ſee what the <hi>Quakers</hi> were, and what Sharp and induſtrious Men theſe <hi>Clergy</hi> had been, to make ſuch a diſcovery of them: And if they, <hi>now in Print,</hi> had done what they could not do at <hi>Weſt-Dereham,</hi> they might not only have ſtop'd the <hi>Gangreen,</hi> but compleat<g ref="char:EOLhyphen"/>ed the Cure, and ſhew'd themſelves Phyſicians of ſome Value. <q>But (ſays the <hi>Clergy,</hi> p. 3.) ſhould we tell them the Names of the Books, Page and Line before-hand, we had deſerved rather to be laugh'd at as Fools, than be look'd on as Diſputants.</q> I perceive they had more mind to be look'd upon as Diſputants, than laugh'd at as Fools, and yet by the Judgment of many, approved themſelves more like the Firſt than the Latter, and ſhewed more Lightneſs and Prophaneneſs; conſidering their Pretentions, and the Place they were in; by Hollowing, and calling to the People to Hiſs at the <hi>Quakers,</hi> than their Skill in Diſputing, or Wiſdom in Management.</p>
+            <p>However, the <hi>Clergy</hi> ſeem to be Generous, in that they allow the ſame liberty for the <hi>Quakers (viz.)</hi> to Charge any of the <hi>Church</hi> of <hi>England</hi> Writers with Blaſphemy, as they had taken againſt the <hi>Quakers,</hi> but is it not greatly to be feared, conſidering the difference and contentions that have been and are amongſt them upon ſeveral Points, as the <hi>Trinity,</hi> &amp;c. that it would be very hard for Dr. <hi>Beckenham,</hi> and the two other <hi>Rectors, Meriton</hi> and <hi>Topcliff,</hi> without the Authority of the Church, or Power <hi>Eccleſiaſtical,</hi> to diſown either Dr. <hi>Sherlock,</hi> or Dr. <hi>South.</hi>
+            </p>
+            <p>However, what the <hi>Quakers</hi> inſiſted upon, conſidering their Generous offer, to meet when they had an account of the Authors, Books and Pages as aforeſaid, and had agreed upon time and place, muſt by fair, and reaſonable Men, be accounted both reaſonable and fair, and the contrary in the <hi>Clergy,</hi> in denying it.</p>
+            <p>I alſo obſerve in page 5. <q>They, ſay they, <hi>i. e.</hi> the <hi>Quakers,</hi> told us <hi>Blaſphemy</hi> againſt God, was the Sin againſt the <hi>Holy Ghoſt,</hi> becauſe the <hi>Holy Ghoſt</hi> was God.</q>
+            </p>
+            <p>
+               <hi>Rem.</hi> And I pray, do not theſe learned <hi>Rectors</hi> ſay the ſame? If not, may not the <hi>Quakers</hi> Charge them with Blaſphemy, as one of the <hi>Quakers</hi> did at <hi>Weſt-Dereham?</hi> And may they not juſtly be charged with Blaſphemy againſt God, and Jeſus Chriſt, <hi>&amp;c.</hi> in that they Charge the <hi>Quakers,</hi> and poſitively aſſert, that the <hi>Light within,</hi> as taught by them, expoſes them to Blaſphemy againſt God, and Blaſphemy againſt Jeſus Chriſt? If that <hi>Light</hi> be God and Jeſus Chriſt.</p>
+            <p>For a <hi>Quaker</hi> there ſtrenuouſly urged, that they taught, believed in, or expected Salvation by no other than by <hi>Him,</hi> that Word that was in the beginning with God, and was God, in whom was Life, and the Life was the Light of Men, <hi>&amp;c.</hi>
+            </p>
+            <p>And if ſo, that any ſay they that aſſert <hi>this Light,</hi> which is the Life of that Word that was God, and ſo <hi>taught,</hi> expoſes them that ſo teach and believe, to Blaſphemy againſt God and Chriſt; and many other Blaſphemies, ſurely they which ſo aſſert, as theſe <hi>Clergy</hi> have, muſt be Blaſphemers againſt God, <hi>&amp;c.</hi> who is this <hi>Word, Light</hi> and <hi>Life:</hi> And the <hi>Quakers</hi> did not only aſſert this, but did poſitively deny all the Charges, which was brought and exhibited againſt them by the <hi>Clergy,</hi> which Charges, the <hi>Clergy</hi> ac<g ref="char:EOLhyphen"/>knowledge, was not prov'd againſt them, as before obſerved; and I heard a <hi>Quaker</hi> then, and there make Confeſſion, that they believed in God Almighty, Creator of Heaven and Earth, and in Jeſus Chriſt his Son, born of the Virgin <hi>Mary,</hi> that appeared in the World, in the Body prepared for him, wrought Miracles, Suffered and Dyed for our Sins, and Roſe again for our Juſtification, and believed that Remiſſion of Sins was through Faith in his Blood; and declared they believed in the Holy Spirit, and owned the <hi>Three</hi> that bear Record in Heaven, the <hi>Father,</hi> the <hi>Word,</hi> and the <hi>Spirit,</hi> and that theſe <hi>Three</hi> are <hi>One,</hi> and that they owned the holy Scriptures of Truth, and believed they were given forth by Divine Inſpiration, and were profitable for Doctrine, Reproof and Correction, and were able to make the Man of God Wiſe to Salvati<g ref="char:EOLhyphen"/>on, through Faith in the Lord Jeſus Chriſt, and that they did eſteem the <hi>Bible</hi> above all other Books, and accounted it the moſt Excellent in all the World, and could be glad People did ſpend more of their time in Reading of it.</p>
+            <p>And that they owned <hi>Magiſtracy</hi> according to Scripture, and accounted it an Ordinance of God, for the <hi>Puniſhing them that do Evil, and Praiſe of them that do Well.</hi>
+            </p>
+            <p>And that they owned the Ordinances of Jeſus Chriſt, and his <hi>Baptiſm,</hi> which is truly Eſſential unto Sal<g ref="char:EOLhyphen"/>vation, and the <hi>Supper</hi> of the <hi>Lord.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:104610:4"/>And in the 1ſt Paper of the <hi>Quakers</hi> unto the <hi>Clergy,</hi> which they call a Copy of the <hi>Quaker</hi>'s Challenge, ſent unto <hi>Henry Meriton, John Meriton, Lawrence Parke,</hi> they write to them thus, <q>If you think you have Matter to Charge us withal, let us have your Charge under your own Hands, <hi>&amp;c.</hi> 'This, ſay they, is not from any Conſciouſneſs to our ſelves of holding any Errors, but if you think it is, you <hi>may</hi> if you pleaſe, <hi>i. e.</hi> Charge them.</q>
+            </p>
+            <p>
+               <hi>Rem.</hi> Now one of the <hi>Quakers</hi> from hence urged, it could be no Challenge, but a Propoſal left to them, if they <hi>thought</hi> they had Matter to Charge them they <hi>might,</hi> and ſaid the <hi>Quakers,</hi> 
+               <q>you have <hi>thought</hi> your have Matter, and <hi>have</hi> charged us, and ſaid, your Meaſures are fixt, and we may chuſe whether we will meet you upon the terms reſolved on or no:</q> See your laſt Paper, which is concluded thus, from thoſe that are reſolved to continue your real Friends, whether you will or not.</p>
+            <p>And notwithſtanding their reſolute friendſhip, allowed not the <hi>Quakers</hi> that proviſion they reſerved in the firſt Paper, <hi>viz.</hi> the common Priviledges to ſuch occaſions belonging, which is a <hi>Mutual</hi> agreement of time, place and method, and to have an account of the Books, Authors and Pages, when they agreed on that method of Charging.</p>
+            <p>I ſhall now make a few Remarks on the Certificate, which theſe Learned Divines have obtained, as they ſay, of ſeveral Principal Inhabitants within the Pariſh of <hi>Weſt-Dereham,</hi> and other adjacent Pariſhes, to obviate the falſe Reports given out by the <hi>Quakers,</hi> wherewith they endeavoured to make the World be<g ref="char:EOLhyphen"/>lieve, that the late <hi>Norfolk</hi> Challenge was not made by them to the <hi>Clergy</hi> of the Church of <hi>England,</hi> which is Signed by Eighteen. It begins thus, <hi>viz.</hi>
+            </p>
+            <p>
+               <q>The Pariſh of <hi>Weſt-Dereham</hi> of <hi>Norfolk,</hi> having in it ſeveral Diviſions and Sectaries, and but an <hi>ex<g ref="char:EOLhyphen"/>ceeding</hi> Small Salary for a Miniſter, diſcouraged moſt Men from Supplying the Cure.</q>
+            </p>
+            <p>
+               <hi>Rem.</hi> Two things are here Aſſigned for diſcouragement, the <hi>ſmallneſs</hi> of the Salary, and having <hi>ſeveral Sectaries.</hi> So where there is moſt Need, there is leaſt Care, if Money be wanting; it makes me think of the Old Proverb, <hi>No Penny, No Pater Noſter:</hi> No Money, no Care or Cure of Souls; will not this verifie the Proverb, <hi>Money anſwers all things?</hi> Therefore ſay theſe Certifiers,</p>
+            <p>By reaſon whereof it was ſeldom well Supply'd for any long time together, and the greateſt part of the People in danger of falling to the <hi>Quakers.</hi>
+            </p>
+            <p>
+               <hi>Rem.</hi> The Difference between Preaching Freely for the Good of Souls, and for a Salary or Forced Maintenance, which theſe Men herein from Experience aſſign, ſaying the Reaſon of their being not well Supply'd with a Preacher, was the Smallneſs of their Pay, which notwithſtanding the preſent Miniſter <hi>Lawrence Park</hi> coming, it's like from the North, where the Benefices are often ſmaller, and the People poor, at the Requeſt of ſome principal Men of the Pariſh, entered upon the Cure in <hi>June,</hi> 1691.</p>
+            <p>Againſt whom, ſay the Certifiers, the <hi>Quakers</hi> have been in a continual Rage, for being diſappointed of their Prey: Such Inſtances as at preſent occur to our Minds, are theſe, <hi>viz.</hi>
+            </p>
+            <p>The Wife of one <hi>Beckett</hi> a <hi>Quaker</hi> gave her ſelf the trouble of going Three Miles to the Miniſter's Houſe, on purpoſe to vex him with Quakerly Queſtions, in a quibling way, upon <hi>Aſcention-Day</hi> Morn<g ref="char:EOLhyphen"/>ing, 1695.</p>
+            <p>
+               <hi>Rem.</hi> This is brought as an Inſtance to prove the <hi>Quakers</hi> continual Rage, for being diſappointed of their Prey. 2. To prove they were the Challengers to the late Diſpute the 8th of <hi>December,</hi> 1698.</p>
+            <p>Now what pray could this poor Woman get of this Laborious Parſon, unleſs by asking him ſuch Queſtions ſhe ſhould bereave him of, that he ſeems but little freighted with; or vex him, becauſe ſhe brought him nothing; will ſuch Stories or Parſons ever bring Credit to the Church, or Cure Souls? Or doth this beſpeak he had any Regard to the Doctrine which St. <hi>Paul</hi> taught in Meekneſs to Inſtruct? But this is alſo brought to prove the <hi>Quakers</hi> were the Challengers to the late Conference; and yet the <hi>Quakers</hi> firſt Letters relating thereto, was not till the 7th of <hi>September,</hi> 1698. and this Woman went to the Parſon in 1695. on purpoſe to vex him, on <hi>Aſcention-Day,</hi> with Quakerly Queſtions, as the Cer<g ref="char:EOLhyphen"/>tifiers ſay. I wonder what they were that grieved him; yet why ſhould I wonder, ſeeing according to the Certificate of theſe principal Inhabitants, his Family can Witneſs the Truth of this, as alſo Mrs. <hi>Biſhop,</hi> a principal Woman of the Town of <hi>Barton,</hi> who happened to be with the Miniſter then: Surely theſe muſt needs be ſome Puſling Queſtions that did ſo ſorely Vex him: But, as <hi>Solomon</hi> ſays of the Fool, <hi>had he kept Silent, he had been counted Wiſe.</hi> But for a Man, and a Miniſter to be ſo Vext with a Woman's Quakerly Queſtion, ſhews great Folly, as it doth Weakneſs, for theſe Rectors, or Divines, to Print ſuch poor Stuff. But the Certifiers go on, ſaying.</p>
+            <p>
+               <q>We of this Pariſh, and divers other Perſons of Neighbouring Pariſhes too, do very well remember, that <hi>Beckett,</hi> the Husband himſelf, watch'd our Miniſter in a Lane (not far from the Church) lined on
+<pb n="8" facs="tcp:104610:5"/>
+both ſides with People to Diſpute, when his Spirits were exhauſted with Preaching, and his Strength weakned by performing the Duty of the Day.</q>
+            </p>
+            <p>
+               <hi>Rem</hi> This is brought as another Proof that the <hi>Quakers</hi> were the Challengers to the Diſpute, be<g ref="char:EOLhyphen"/>cauſe this poor <hi>Quaker</hi> ſpoke to the <hi>Parſon</hi> in a Lane; ſurely it's a great Vexation to this Man to be ſpoken to: But if the Woman had not gone after this Shepherd, and the Man met with him in a Lane, it's greatly to be queſtioned whether he would have ſought them, though peradventure he might have ſent for the Tythe, Eggs, Piggs or Geeſe; for is it not that, and the Rewards that he may expect from the principal inhabitants that Requeſted him to take the Cure upon him, which incouraged him to Sup<g ref="char:EOLhyphen"/>ply it, and mind more than his Flock, or to anſwer any Quakerly Queſtions, altho' they go Three Miles to ſeek their Shepherd, and ask them. But there is another Inſtance to prove the Challenge was made by the <hi>Quakers,</hi> becauſe one <hi>Philips</hi> a <hi>Quaker</hi> went above Four Months before the Challenge was made, as theſe Certifiers declare, <hi>viz.</hi> 
+               <q>One <hi>Phillips</hi> a <hi>Quaker</hi> went to diſturb our Miniſter at his own Houſe one <hi>Monday</hi> in <hi>May</hi> laſt, to Challenge him to a Diſpute with the <hi>Quakers.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Rem.</hi> It's well it was not on <hi>Saturday,</hi> for that might prevented his next Days Work: But how do theſe principal Inhabitants of ſeveral Pariſhes know that <hi>Phillips</hi> the <hi>Quaker</hi> did go to diſturb their <hi>Miniſter,</hi> &amp;c. did they ſee him, or hear him do it, or did their <hi>Miniſter</hi> tell them ſo, and therefore they Certifie on his Say ſo? Surely ſuch doings will never Redound to theſe <hi>Clergy-Mens</hi> Credit.</p>
+            <p>But they ſtill Certifie to one <hi>Maſon</hi> and <hi>Beckett</hi>'s ſetting up a Conventicle contrary to Law, in an Un<g ref="char:EOLhyphen"/>licenced Barn—and they farther Certifie for no other Cauſe, but preſerving his Sheep from being de<g ref="char:EOLhyphen"/>voured by the Wolves, gave our <hi>Miniſters</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> great occaſion to dread an Apoſtacy of the People from the <hi>Chriſtian Faith.</hi>
+            </p>
+            <p>This, and nothing but this, made <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> and our <hi>Miniſters</hi> willing to permit Mr. <hi>Bugg</hi> among them, to try if he could Conjure down this buſie Spirit which poſſeſſes the <hi>Quakers,</hi> and is ſo troubleſome to us.— So that whatever the <hi>Quakers</hi> may pretend to the contrary, we verily believe they are the Challengers, and none but they. And had the <hi>Miniſters</hi> been permitted to make out their Charge, <hi>Quakeriſm</hi> in thoſe parts would have received a mortal Stroke. The Truth of all which is Certified by us, <hi>viz. William Beena, William Young, Richard Taylor, George Archer, John Smith, John Wright, Thomas Wade, Thomas Com<g ref="char:EOLhyphen"/>plin, John Goddard, Thomas Warde, Thomas Hubbard, William Prick, Caleb Mayor, Grace Lampſon, Mary Park, Bartholomew Ramſey, Samuel Chiſe, William Sargiſon.</hi>
+            </p>
+            <p>
+               <hi>Rem.</hi> Firſt, How doth this prove that the <hi>Quakers</hi> were the Challengers? 2d. What proof hath <hi>L. Park</hi> made of his Care to preſerve his Sheep from the Wolves, or the People from an Apoſtacy, ſo mightily dreaded? Did he go from Houſe to Houſe, and in Meekneſs Inſtruct, or by Good Life, Sound Doctrine, and the holy Scripture, Convince any of their Errors? Where are the Fruits of his Labours, and Seals of his Miniſtry? What muſt demonſtrate him to be a <hi>Miniſter</hi> of <hi>Chriſt?</hi> (for he, nor none of the Managers, when urged to it by the <hi>Quakers</hi> at <hi>Weſt-Dereham</hi> would undertake to prove themſelves ſuch) Or muſt his being vexed with the Woman for asking him Queſtions be the proof, or his ſending for Mr. <hi>Bugg,</hi> that is Apoſtatized from the <hi>Quakers,</hi> or <hi>Permitting</hi> him to come? And by the way let me Remark that word <hi>Permitting;</hi> for that ſhews neither their <hi>Miniſters,</hi> or <hi>They,</hi> cared much for him, yet were willing to <hi>Permit</hi> him to come among his Sheep: Indeed it was a hazard, <hi>for one Scabby Sheep is apt to ſpoil a whole Flock,</hi> yet if Mr. <hi>Bugg</hi> could Conjure down this buſie Spirit, which ſo vext this poor <hi>Parſon,</hi> he was willing to ſuffer a Trial, finding his own Ability was not ſufficient, and the People alſo did <hi>Per<g ref="char:EOLhyphen"/>mit;</hi> which ſhews this Mr. <hi>Bugg</hi> hath but little Credit (whatever he is) where he is known: Yet theſe Subſcribers declare their Belief, that the <hi>Quakers</hi> were the Challengers, and none but they: But this may be from the perſwaſion of the Parſons, and knowledge of their Timorouſneſs and Inabilities, who declared at <hi>Weſt-Dereham</hi> it could not be expected that they, Country Parſons, ſhould engage with the <hi>London</hi> Diſputants. Yet if theſe noted <hi>Miniſters</hi> had made out the Charge, <hi>Quakeriſm</hi> would have received a mortal Stroke; by which they grant it hath not. And truly I muſt Conclude, that theſe kind of Pro<g ref="char:EOLhyphen"/>ceedings, and manner of Management, is never like to be to the Reputation of the <hi>Church of England,</hi> or the <hi>Miniſters</hi> of it: And therefore I am perſuaded the Biſhop of <hi>Norwich,</hi> and the moderate Church<g ref="char:EOLhyphen"/>men, will with me Conclude, It's beſt for all to Love God, and Live well, and then we ſhall Love one another, and do well; and by well doing put to Silence the Ignorance of Fooliſh Men; and this becomes <hi>Proteſtants</hi> of all ſorts, and not to Quarrel one with another.</p>
+            <q>Ira odium Generat Concordia nutrit amorem.</q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:104610:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
